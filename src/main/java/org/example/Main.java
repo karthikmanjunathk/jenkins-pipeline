@@ -5,6 +5,6 @@ public class Main {
 
         System.out.println("Hello, World!");
         System.out.println("Jenkins Pipeline Successful");
-        System.out.println("This was from second commit");
+        System.out.println("This time it should work");
     }
 }
